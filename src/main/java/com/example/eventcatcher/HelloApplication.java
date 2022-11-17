@@ -1,4 +1,4 @@
-package com.example.datastructurejavafxproject;
+package com.example.eventcatcher;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
